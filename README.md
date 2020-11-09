@@ -1,6 +1,6 @@
 # dashboard_backOffice
 
-# Projet Dashboard BackOffice - Gestion achat matÃ©riel
+# Projet Dashboard BackOffice - Gestion achat matèriel
 _Ce dasboard devra ètre sècurisé par un systéme de login_
  - Il doit permettre de :
 *	`lister les produits`
@@ -10,13 +10,13 @@ _Ce dasboard devra ètre sècurisé par un systéme de login_
 
 
 # Pour chaque produit je doit rentrer les informations suivantes
-  - [] Lieux d'achat (En vente directe ou e-commerce)
-	`Si vente directe - PossibilitÃ© de saisir l'adresse`
+  - [ ] Lieux d'achat (En vente directe ou e-commerce)
+	`Si vente directe - Possibilité de saisir l'adresse`
 	`Si e-commerce - Possibilité de saisir l'url du e-commerce`
   - [ ] Nom du produit
 	- [ ] Réference du produit
 	- [ ] Catégorie (Electroménager, TV-HIFI, Bricolage, Voiture....)
-		_Le produit n'appartiendra qu'Ã  une seule catÃ©gorie_
+		_Le produit n'appartiendra qu'à  une seule catégorie_
 	- [ ] Date d'achat
 	- [ ] Date de fin de garantie
 	- [ ] Prix
@@ -25,7 +25,7 @@ _Ce dasboard devra ètre sècurisé par un systéme de login_
   - [ ] Manuel d'utlisation (Pas obligatoire si existe pas)
 
 
-	~~les plus : On ne rÃ©alise les plus que si vous avez le temps~~
+	~~les plus : On ne réalise les plus que si vous avez le temps~~
   * **Envoyer un email a p.moreno@onlineformapro.com**
     *en php 30 jours avant la date de fin garantie.*
 
@@ -34,7 +34,7 @@ _Ce dasboard devra ètre sècurisé par un systéme de login_
    
 
 
-:+1: 	__Si dans son Ã©quipe personne ne peut pas rÃ©soudre le soucis alors ont fait appel au lead Dev__
+:+1: 	__Si dans son équipe personne ne peut pas résoudre le soucis alors ont fait appel au lead Dev__
 
 
-##	**A rendre pour 17/11/2020 Ã  15h00.**
+##	**A rendre pour 17/11/2020 à  15h00.**
